@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jdfInterviewQuestions/jdfInterviewQuestions.iml" filepath="$PROJECT_DIR$/jdfInterviewQuestions/jdfInterviewQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jucLearning/jucLearning.iml" filepath="$PROJECT_DIR$/jucLearning/jucLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/leecodeLearning.iml" filepath="$PROJECT_DIR$/.idea/leecodeLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/net-app/net-app.iml" filepath="$PROJECT_DIR$/net-app/net-app.iml" />
+    </modules>
+  </component>
+</project>
